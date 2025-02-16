@@ -17,7 +17,7 @@ This section includes behavior-driven development (BDD) test scenarios for the b
 * **Customer Login Page Functionality** (as specified in the task instructions)
 
 ***Global Environment Variables***
-
+<br>
 The project uses global variables for "multi-environment maintenance" and simplified environment switching in tests.  
 These variables are defined in: `../steps/common_steps.py`
 
