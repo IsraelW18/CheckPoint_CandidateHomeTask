@@ -1,4 +1,4 @@
-# CheckPoint_CandidateHomeTask
+# CheckPoint Candidate Home Task
 
 **Repository Owner:** [Israel Wasserman](https://www.linkedin.com/in/israel-wasserman/) 
 
