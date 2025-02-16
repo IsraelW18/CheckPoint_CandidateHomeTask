@@ -1,6 +1,6 @@
 # CheckPoint_CandidateHomeTask
 
-## Repository Owner: [Israel Wasserman](https://www.linkedin.com/in/israel-wasserman/)
+** Repository Owner:** [Israel Wasserman](https://www.linkedin.com/in/israel-wasserman/) 
 
 ## Project Overview
 This repository contains BDD scenarios for following 2 projects:
