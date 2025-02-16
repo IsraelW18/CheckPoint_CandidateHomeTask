@@ -1,2 +1,2 @@
 # CheckPoint_CandidateHomeTask
-Israel Wasserman - Candidate Home task
+Owner: [Israel Wasserman](https://www.linkedin.com/in/israel-wasserman/)
