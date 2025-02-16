@@ -4,7 +4,7 @@
 
 ## Project Overview
 This repository contains BDD scenarios for following 2 projects:
-* **Bank Web Application**
+* **Bank Web Application Project**
 * **API - Contact List Project**
 
 ---
