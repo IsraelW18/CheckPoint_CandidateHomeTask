@@ -22,7 +22,7 @@ This section includes behavior-driven development (BDD) test scenarios for the b
 This section includes API test scenarios and Postman scripts for managing contacts and users.
 
 **BDD scenarios** for all API requests:
-  - **Contacts** (CRUD operations)
+  - **Contacts** (Adding, Retrieving, Updating, and Deleting contacts)
   - **Users** (Authentication & management)
 
 **Postman collection** with script examples:
@@ -32,11 +32,4 @@ This section includes API test scenarios and Postman scripts for managing contac
     - **POST** – Log In User
 
 ---
-
-## Getting Started
-To run these BDD tests, ensure you have `Behave` installed for Gherkin-based testing and import the Postman collection for API validation.
-
----
-
-**For any inquiries, feel free to reach out!**  
-**LinkedIn:** [Israel Wasserman](https://www.linkedin.com/in/israel-wasserman/)  
+##
