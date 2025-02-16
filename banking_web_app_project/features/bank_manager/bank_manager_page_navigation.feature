@@ -2,7 +2,7 @@ Feature: Bank Manager Page Navigation
         
     manager pages navigation and loading
    
-    # MANAGER_BASE_URL is a global value defined in - ../steps/common_steps.py
+    # MANAGER_BASE_URL is a global variable defined in - ../steps/common_steps.py
 
         @Smoke @Sanity @gui
         Scenario: Verify that the Bank Manager page loads correctly

@@ -2,7 +2,7 @@ Feature: Add Customer
 
     Registering a new customer to the bank functionality, with valid and invalid inputs
     
-    # MANAGER_BASE_URL is a global value defined in - ../steps/common_steps.py
+    # MANAGER_BASE_URL is a global variable defined in - ../steps/common_steps.py
 
         @acceptance @positive
         Scenario Outline: Adding a new valid customer to the bank
