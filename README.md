@@ -19,7 +19,7 @@ This section includes behavior-driven development (BDD) test scenarios for the b
 ***Global Environment Variables***
 <br>
 The project uses global variables for "multi-environment maintenance" and simplified environment switching in tests.  
-These variables are defined in: `../steps/common_steps.py`
+These variables are defined in: [/steps/common_steps.py](https://github.com/IsraelW18/CheckPoint_CandidateHomeTask/blob/main/banking_web_app_project/features/steps/common_steps.py)
 
 ---
 
