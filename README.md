@@ -5,7 +5,7 @@
 ## Project Overview
 This repository contains BDD scenarios for following 2 projects:
 * **Bank Web Application**
-* **API - Contact List Project** (Additionally, includes a Postman collection for request validation and parameter handling)
+* **API - Contact List Project**
 
 ---
 
